@@ -14,4 +14,4 @@ app.get('/validar/:cpf', (req, res) => {
 });
  
 app.listen(PORT);
-console.log(`Running listening on port ${PORT}`);
+console.log(`Running listening on port ${PORT}`)
